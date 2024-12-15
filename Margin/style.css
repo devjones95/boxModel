@@ -1,0 +1,56 @@
+h1{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+
+h2{
+    background-color: yellow;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.h3-ex{
+    background-color: black;
+    color: yellow; 
+    text-align: center;
+}
+
+.h3-p1{
+    background-color: yellow;
+    width: 200px;
+    height: 250px;
+    padding: 20px 30px;
+    margin: 25px 30px 40px 50px;
+}
+
+.h3-p2{
+    background-color: yellow;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    padding: 90px 30px 25px 30px;
+    margin: 100px;
+}
+
+.h3-p3{
+    background-color: yellow;
+    text-align: center;
+    width: 50%;
+    height: 20%;
+    padding: 5% 8% 3% 2%;
+    margin: 200px 150px;
+}
+
+.h3-p4{
+    background-color: yellow;
+    text-align: center;
+    width: 25%;
+    height: 100%;
+    padding: 150px;
+    margin: 25%;
+}
+

@@ -1,0 +1,48 @@
+h1{
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+}
+
+h2{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.h3-ex{
+    background-color: black;
+    color: greenyellow; 
+    text-align: center;
+}
+
+.h3-p1{
+    background-color: greenyellow;
+    width: 200px;
+    height: 250px;
+}
+
+.h3-p2{
+    background-color: greenyellow;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+}
+
+.h3-p3{
+    background-color: greenyellow;
+    text-align: center;
+    width: 50%;
+    height: 20%;
+}
+
+.h3-p4{
+    background-color: greenyellow;
+    text-align: center;
+    width: 25%;
+    height: 100%;
+}
+

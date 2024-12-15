@@ -1,0 +1,52 @@
+h1{
+    background-color: black;
+    color: lightskyblue;
+    text-align: center;
+}
+
+h2{
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.h3-ex{
+    background-color: black;
+    color: lightskyblue; 
+    text-align: center;
+}
+
+.h3-p1{
+    background-color: lightskyblue;
+    width: 200px;
+    height: 250px;
+    padding: 20px 30px;
+}
+
+.h3-p2{
+    background-color: lightskyblue;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    padding: 90px 30px 25px 30px;
+}
+
+.h3-p3{
+    background-color: lightskyblue;
+    text-align: center;
+    width: 50%;
+    height: 20%;
+    padding: 5% 8% 3% 2%;
+}
+
+.h3-p4{
+    background-color: lightskyblue;
+    text-align: center;
+    width: 25%;
+    height: 100%;
+    padding: 150px;
+}
+
